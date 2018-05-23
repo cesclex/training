@@ -6,5 +6,6 @@ otra actualizacion de bayron
 actualizacion ernesto
 actualizacion ernesto 2
 actualizacion ernesto 3
-modificacion +1, Jhonatan
-modificacion +1,
+modificación +1, Jhonatan
+modificación +1,
+última modificación, Jhonatan
