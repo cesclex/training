@@ -55,6 +55,7 @@ public class Ejercicio5 {
         } while (opc.equals("S") || opc.equals("s"));
     }
 }
+<<<<<<< HEAD
 
 //Modificación Diego
 import java.util.Arrays;
@@ -88,3 +89,5 @@ class OrdenarNombres{
 
     }
 }
+=======
+>>>>>>> Ernesto Ejercicio 5
