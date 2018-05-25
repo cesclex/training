@@ -1,15 +1,3 @@
-﻿gwoiqojdcbklncbajcionacquihdbcnalcnaklm
-uno dos si prueba de escritura
-Bayron Jonathan
-adpioadni9hdadljakdmokamdo
-otra actualizacion de bayron
-actualizacion ernesto
-actualizacion ernesto 2
-actualizacion ernesto 3
-modificación +1, Jhonatan
-modificación +1,
-última modificación, Jhonatan
-Ejercicio 5 Ernesto
 package ejercicio5;
 
 import java.util.Scanner;
@@ -53,38 +41,5 @@ public class Ejercicio5 {
                  System.out.println("Año invalido, por favor ingrese un valor expresado en números");
             }
         } while (opc.equals("S") || opc.equals("s"));
-    }
-}
-
-//Modificación Diego
-import java.util.Arrays;
-import java.util.Scanner;
-
-class OrdenarNombres{
-    public static Scanner leer = new Scanner(System.in);
-    public static void main (String[] arg){
-        
-        /*Ordenar Nombres*/
-            
-        String[] Nombres = new String[5];
-        
-        for(int i=0; i<5; i++){
-            System.out.println("Nombre: ");
-            Nombres[i]=leer.next();
-        }
-
-        System.out.println("\n Nombres Desordenados");        
-        for (String Nombre : Nombres) {
-            System.out.print(Nombre + " / ");
-        }
-        
-        System.out.println("\n Nombres Ordenados");
-        Arrays.sort(Nombres);
-        for (String Nombre : Nombres) {
-            System.out.print(Nombre + " / ");
-        }
-
-        System.out.println("\n");
-
     }
 }
