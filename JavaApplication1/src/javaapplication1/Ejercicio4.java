@@ -1,5 +1,5 @@
 package javaapplication1;
-public class JavaApplication1 {
+public class Ejercicio4 {
     public static void main(String[] args) {
         int numero1 = 10; 
         int numero2 = 5; 
